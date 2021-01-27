@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+  <link>
+    <title>All Tutorials</title>
+    <url>https://saucy-onigiri-stay-connected.s3.amazonaws.com/tutorialHomePage.html</url>
+  </link>
+  <link>
+    <title>Iphone Mail Tutorials</title>
+    <url>https://saucy-onigiri-stay-connected.s3.amazonaws.com/tutorialiphone_email.html</url>
+  </link>
+  <link>
+    <title>Iphone Texting Tutorials</title>
+    <url>https://saucy-onigiri-stay-connected.s3.amazonaws.com/tutorialiphone_texting.html</url>
+  </link>
+  <link>
+    <title>Iphone Calling Tutorials</title>
+    <url>https://saucy-onigiri-stay-connected.s3.amazonaws.com/tutorialiphone_calling.html</url>
+  </link>
+  <link>
+    <title>Android Mail Tutorials</title>
+    <url>https://saucy-onigiri-stay-connected.s3.amazonaws.com/TutorialAndroid_Email.html</url>
+  </link>
+  <link>
+    <title>Android Texting Tutorials</title>
+    <url>https://saucy-onigiri-stay-connected.s3.amazonaws.com/TutorialAndroid_Texting.html</url>
+  </link>
+  <link>
+    <title>Android Calling Tutorials</title>
+    <url>https://saucy-onigiri-stay-connected.s3.amazonaws.com/TutorialAndroid_Calling.html</url>
+  </link>
+</pages>
